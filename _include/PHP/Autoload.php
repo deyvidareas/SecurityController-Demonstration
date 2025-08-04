@@ -1,5 +1,4 @@
 <?php
-
   /** Configuração para: Autoload */
   function Autoload($class_name) {
 

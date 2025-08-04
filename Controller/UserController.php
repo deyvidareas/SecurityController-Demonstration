@@ -2,7 +2,7 @@
 
   require_once '../Config/config.php';  
 
-  $POST = filter_input_array(INPUT_POST, FILTER_SANITIZE_STRING);
+  $POST = $_POST;
 
   $usuario = new Usuario();
 
@@ -11,19 +11,15 @@
 ##########################################################################
 if (($_SERVER['REQUEST_METHOD'] === 'POST') && isset($POST['validaLoginUsuario'])) :
 
-  $email = $POST['email']; 
-  $senha = $POST['senha'];
-  $tipo = $POST['tipoUsuario'];
+  $email = trim($POST['email']); 
+  $senha = trim($POST['senha']);
+  $tipo = trim($POST['tipoUsuario']);
 
   $result = $usuario->validaLoginUsuario($email, $senha, $tipo);
-  
   if (empty($result)) {
-
     Mensagens::setMsg('Usuário ou Senha incorretos ! ', 'errorMsg');
     header('Location: ../'.$vURL);
-
   } else {
-
     $_SESSION['id'] = $result['id'];
     $_SESSION['email'] = $result['email'];
     $_SESSION['nome'] = $result['nome'];
@@ -31,9 +27,7 @@ if (($_SERVER['REQUEST_METHOD'] === 'POST') && isset($POST['validaLoginUsuario']
     $_SESSION['tipoUsuario'] = $tipo;
     $_SESSION['nivelUsuario'] = isset($result['nivel']) ? $result['nivel'] : null;
     $_SESSION['mudouSenha'] = isset($result['mudouSenha']) ? $result['mudouSenha'] : null;
-
     header('Location: ../index.php');
-
   }
 
 endif;

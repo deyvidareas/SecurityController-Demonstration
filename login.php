@@ -35,7 +35,21 @@
 
 <body>
 
+  <div class="col-12">
+      <div class="alert alert-primary" role="alert">
+        Essa é uma demonstração do Sistema Security Controller que Desenvolvi para a Faetec/ISERJ.
+     </div>
+  </div>
+
   <div class="wrapper fadeInDown">
+    <div class="alert alert-primary" role="alert">
+        Para o Tipo funcionarioPortaria use o email: funcionario@gmail.com
+        e a Senha: voutecontratar
+     </div>
+     <div class="alert alert-primary" role="alert">
+        Para o Tipo Administardor use e o email: adm@gmail.com
+        e a Senha: voutecontratar
+     </div>
     <div id="formContent">
 
       <main class="login">
