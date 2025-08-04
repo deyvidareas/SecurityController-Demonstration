@@ -1,0 +1,4 @@
+# Arquivos sensíveis
+Config/config.php
+Banco_de_Dados/bdentrada.sql
+.env

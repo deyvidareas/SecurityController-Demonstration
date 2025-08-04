@@ -1,0 +1,57 @@
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 5
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 67
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 118
+[07-Jan-2022 09:31:34 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\index.php on line 6
+[07-Jan-2022 09:31:35 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\footer.php on line 7
+[07-Jan-2022 11:49:33 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:50:35 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:50:35 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:51:26 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:51:26 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:51:26 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:55:40 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:55:40 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:55:40 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:56:04 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:56:04 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:56:04 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:59:43 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:59:43 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 11:59:43 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\Model\Funcionarios.php on line 112
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 153
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 153
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 153
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\Model\Funcionarios.php on line 112
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:05:13 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\Model\Funcionarios.php on line 112
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:05:39 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\Model\Funcionarios.php on line 112
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined variable: nivel in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 136
+[07-Jan-2022 12:06:35 America/Sao_Paulo] PHP Notice:  Undefined index: id in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 141
+[07-Jan-2022 12:15:28 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:15:28 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:15:28 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:15:52 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:15:52 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135
+[07-Jan-2022 12:15:52 America/Sao_Paulo] PHP Warning:  Use of undefined constant Superior - assumed 'Superior' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\cadastroAdministradores.php on line 135

@@ -1,0 +1,37 @@
+[24-Dec-2021 23:10:11 America/Sao_Paulo] PHP Notice:  Undefined variable: visitantes in C:\xampp\htdocs\projetoContollerSecurity\consulta.php on line 75
+[24-Dec-2021 23:10:11 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\consulta.php on line 75
+[24-Dec-2021 23:13:33 America/Sao_Paulo] PHP Notice:  Undefined variable: visitantes in C:\xampp\htdocs\projetoContollerSecurity\consulta.php on line 81
+[24-Dec-2021 23:13:33 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\consulta.php on line 81
+[25-Dec-2021 18:11:23 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sistema::subMenuAtivo(), 0 passed in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 4 and exactly 2 expected in C:\xampp\htdocs\projetoContollerSecurity\Model\Sistema.php:86
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php(4): Sistema::subMenuAtivo()
+#1 C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php(111): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\projetoContollerSecurity\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Sistema.php on line 86
+[25-Dec-2021 18:13:55 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sistema::subMenuAtivo(), 0 passed in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 4 and exactly 2 expected in C:\xampp\htdocs\projetoContollerSecurity\Model\Sistema.php:86
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php(4): Sistema::subMenuAtivo()
+#1 C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php(111): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\projetoContollerSecurity\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Sistema.php on line 86
+[25-Dec-2021 18:20:18 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sistema::subMenuAtivo(), 0 passed in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 4 and exactly 2 expected in C:\xampp\htdocs\projetoContollerSecurity\Model\Sistema.php:86
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php(4): Sistema::subMenuAtivo()
+#1 C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php(111): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\projetoContollerSecurity\index.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Sistema.php on line 86
+[25-Dec-2021 18:46:01 America/Sao_Paulo] PHP Notice:  Undefined variable: resultado in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 41
+[25-Dec-2021 18:46:04 America/Sao_Paulo] PHP Notice:  Undefined variable: resultado in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 41
+[25-Dec-2021 18:56:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function subMenuAtivo() in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php:41
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php(111): require_once()
+#1 C:\xampp\htdocs\projetoContollerSecurity\cadastroFuncionario.php(3): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 41
+[25-Dec-2021 18:58:47 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php on line 7
+[25-Dec-2021 18:58:47 America/Sao_Paulo] PHP Notice:  Constant URL_ATUAL already defined in C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php on line 17
+[25-Dec-2021 18:59:44 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php on line 7
+[25-Dec-2021 18:59:44 America/Sao_Paulo] PHP Notice:  Constant URL_ATUAL already defined in C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php on line 17

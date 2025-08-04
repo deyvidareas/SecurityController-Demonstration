@@ -1,0 +1,19 @@
+[30-Dec-2021 13:31:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'FuncionarioPortaria' not found in C:\xampp\htdocs\projetoContollerSecurity\View\home\homeAdministrador.php:3
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\index.php(9): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\View\home\homeAdministrador.php on line 3
+[30-Dec-2021 13:52:14 America/Sao_Paulo] PHP Notice:  Undefined variable: listaAdministradores in C:\xampp\htdocs\projetoContollerSecurity\View\home\homeAdministrador.php on line 215
+[30-Dec-2021 13:52:14 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homeAdministrador.php on line 215
+[30-Dec-2021 13:53:39 America/Sao_Paulo] PHP Notice:  Undefined variable: listaAdministradores in C:\xampp\htdocs\projetoContollerSecurity\View\home\homeAdministrador.php on line 215
+[30-Dec-2021 13:53:39 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homeAdministrador.php on line 215
+[30-Dec-2021 16:22:39 America/Sao_Paulo] PHP Notice:  Undefined index: nivelAdministrador in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[30-Dec-2021 16:23:28 America/Sao_Paulo] PHP Notice:  Undefined index: nivelAdministrador in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[30-Dec-2021 16:23:46 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[30-Dec-2021 16:34:01 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[30-Dec-2021 16:35:51 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[30-Dec-2021 16:43:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'FuncionarioPortaria' not found in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php:3
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\index.php(7): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 3

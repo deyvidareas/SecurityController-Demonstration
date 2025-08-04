@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  app:
+    image: php:7.4-apache
+    container_name: securitycontroller-iserj_app
+    ports:
+      - "8080:80"
+    volumes:
+      - /home/deyvid/Desktop/Projetos-DEV/SecurityController-ISERJ:/var/www/html
+    depends_on:
+      - db
+    command: bash -c "docker-php-ext-install mysqli pdo_mysql && apache2-foreground"
+
+  db:
+    image: mysql:5.7
+    container_name: securitycontroller-iserj_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: iserj_db
+    ports:
+      - "3306:3306"

@@ -1,0 +1,66 @@
+[23-Dec-2021 11:59:34 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 11:59:34 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:00:09 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:00:09 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:03:58 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:03:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:04:07 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:04:07 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:06:57 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:06:57 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:10:41 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 12:10:41 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:51:54 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 139
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: identidade in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 13:53:53 America/Sao_Paulo] PHP Notice:  Undefined index: cpf in C:\xampp\htdocs\projetoContollerSecurity\painel.php on line 140
+[23-Dec-2021 14:37:32 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 14:37:32 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 18:56:13 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 18:56:13 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 19:45:40 America/Sao_Paulo] PHP Notice:  Undefined variable: atividadesParaFazer in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16
+[23-Dec-2021 19:45:40 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 16

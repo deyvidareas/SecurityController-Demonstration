@@ -1,0 +1,9 @@
+[30-Dec-2021 21:48:20 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[30-Dec-2021 21:48:20 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[30-Dec-2021 21:48:31 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[30-Dec-2021 21:48:31 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[30-Dec-2021 21:53:35 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[30-Dec-2021 21:53:35 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[31-Dec-2021 18:56:12 America/Sao_Paulo] PHP Warning:  Use of undefined constant motivoVisita - assumed 'motivoVisita' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 90
+[31-Dec-2021 18:56:42 America/Sao_Paulo] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 90
+[31-Dec-2021 18:56:42 America/Sao_Paulo] PHP Warning:  Illegal string offset 'motivoVisita' in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 90

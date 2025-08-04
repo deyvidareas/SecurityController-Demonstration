@@ -1,0 +1,452 @@
+:root {
+  --bg-nav: linear-gradient(90deg, #f8fcff, #FFFFFF);
+  --bg-nav-titulo: linear-gradient(90deg, #FFFFFF, #f8fcff);
+  --bg-aside: linear-gradient(90deg, #FFFFFF, #f8fcff);
+}
+
+/* --------------- Backgrounds estilizados  ------------------ */
+
+#bg_nav {
+  background: var(--bg-nav);
+}
+
+#bg_nav {
+  background: var(--bg-nav);
+}
+
+#bg-nav-titulo {
+  background: var(--bg-nav-titulo);
+}
+
+#bg-aside {
+  background: var(--bg-aside);
+ 
+}
+
+.bg-card {
+  background: linear-gradient(120deg, #f8fcff, #FFFFFF);
+}
+
+.bg-footer {
+  background: linear-gradient(120deg, #f8fcff, #FFFFFF);
+  color: #000000;
+  text-align: center;
+}
+
+.footer-strong {
+  margin: 10px;
+  padding: 15px;
+}
+
+button.dt-button,
+div.dt-button,
+a.dt-button {
+  background: linear-gradient(120deg, #02395F, #14669C, #1c7fc2, #14669C, #034773) !important;
+  border: 0px !important;
+  color: white !important;
+  border-radius: 0.25em !important;
+}
+
+.page-item.active .page-link {
+  color: #fff;
+  background: linear-gradient(120deg, #02395F, #14669C, #1c7fc2, #14669C, #034773) !important;
+  border: 0px;
+}
+
+.btn-primary {
+  color: #fff;
+  background: linear-gradient(120deg, #02395F, #14669C, #1c7fc2, #14669C, #034773) !important;
+  border: 0px !important;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(90deg, #034773, #103b58, #0e3652, #0b3755, #02395F) !important;
+  color: #ffffff !important;
+  border: 0px !important;
+}
+
+.btn-danger {
+  color: #fff;
+  background: linear-gradient(120deg, #9b1111, #c22121, #ce2323, #c42727, #ad1616) !important;
+  border: 0px !important;
+}
+
+.btn-danger:hover {
+  background: linear-gradient(90deg, #880b0b, #6d1515, #691515, #801212, #8d1111) !important;
+  color: #ffffff !important;
+  border: 0px !important;
+}
+
+.btn-secondary {
+  color: #fff !important;
+  background: linear-gradient(120deg, #a5a5a5, #666666, #a5a5a5, #808080) !important;
+  border: 0px !important;
+}
+
+.btn-secondary:hover {
+  color: #fff !important;
+  background: linear-gradient(120deg, #474747, #525252, #666666, #3b3b3b) !important;
+  border: 0px !important;
+}
+
+/*
+.bg-footer{
+  background: linear-gradient(120deg, #02395F, #14669C, #054977, #14669C, #034773);
+  color: #034773;
+  text-align: center;
+}
+*/
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  color: #5a5a5a;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+  background-color: rgb(141, 0, 0);
+}
+
+.carousel-item>img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 32rem;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.marketing h2 {
+  font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+
+/* --------------------------------- */
+
+.layout-navbar-fixed .wrapper .main-header {
+  margin-left: 0px;
+}
+
+a:hover {
+  color: linear-gradient(120deg, #535353b6, #636363, #6e6e6e);
+  ;
+  text-decoration: none;
+}
+
+/* --------------- Background do botão no modo active ------------------ */
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active,
+.sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+  background: linear-gradient(120deg, #02395F, #14669C, #054977, #14669C, #034773);
+  color: #ffffff;
+}
+
+
+/**------------ Camera ----------------**/
+
+.imagemCamera {
+  width: 100% !important;
+  height: auto !important;
+}
+
+
+#previewFoto {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/*------------------------------------*/
+
+.logo {
+  width: 150px !important;
+  height: 150px;
+  margin: 0 0 0 -75px;
+  display: block;
+  padding: 75px 0 0;
+  top: -35px;
+  border-radius: 100%;
+  
+  background: linear-gradient(120deg, #f9fcff, #ffffff);;
+  filter: drop-shadow(0px 3px 6px rgba(23, 23, 23, 0.116));
+  
+  left: 50%;
+  right: 50%;
+  position: absolute;
+  transition: top 0.3s ease;
+  text-align: center;
+}
+
+.logo img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  transition: all 0.3s ease;
+  top: 4px;
+  position: absolute;
+  padding: 15px;
+}
+
+/*--------------Animação para imagem--------------------*/
+
+#hero .animated{
+  animation: 3s ease-in 1s infinite reverse both running slidein;
+}
+
+#hero .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+@media (max-width: 991px) {
+  #hero {
+    height: calc(40vh - 72px);
+  }
+  #hero .animated {
+    -webkit-animation: none;
+    animation: none;
+  }
+  #hero .hero-img {
+    text-align: center;
+  }
+  #hero .hero-img img {
+    width: 50%;
+  }
+}
+
+
+@-webkit-keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+  /*---------------- Tipografia -------------------*/
+
+    .space {
+      display: inline-block;
+      width: 10px;
+  }
+
+  video {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  
+  /* Extra small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) { 
+  
+    h3{
+      font-size: 1em !important;
+    }
+    span{
+      font-size: 1em !important;
+    }
+
+    .logo {
+      width: 0 !important;
+      height: 0;
+      margin: 0 0 0 -75px;
+      display: block;
+      padding: 0 0 0;
+      top: 0;
+      border-radius: 100%;
+      
+      background:  #f9fcff00;
+      
+      left: 50%;
+      right: 50%;
+      position: absolute;
+      transition: top 0.3s ease;
+      text-align: center;
+    }
+
+    .imagemCamera {
+      width: 70% !important;
+    }
+
+    .img-fluid {
+      max-width: 70% !important;
+    }
+
+    #card-camera{
+      max-height: 600px;
+    }
+
+   }
+  
+  
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) and (max-width: 767.98px) { 
+  
+    h3{
+      font-size: 2em !important; 
+    }
+    span{
+      font-size: 1em !important;
+    }
+
+    .logo {
+      width: 0 !important;
+      height: 0;
+      margin: 0 0 0 -75px;
+      display: block;
+      padding: 0 0 0;
+      top: 0;
+      border-radius: 100%;
+      
+      background:  #f9fcff00;
+      
+      left: 50%;
+      right: 50%;
+      position: absolute;
+      transition: top 0.3s ease;
+      text-align: center;
+    }
+
+   
+
+    .imagemCamera {
+      margin-top: 0 !important;
+      width: 70% !important;
+      max-height: 330px !important;
+    }
+
+    .img-fluid {
+      max-width: 70% !important;
+      max-height: 330px !important;
+  }
+
+ } 
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    h3{
+      font-size: 2em !important;
+    }
+    span{
+      font-size: 1em !important;
+    }
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    h3{
+      font-size: 2em !important;
+    }
+    span{
+      font-size: 1em !important;
+    }
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+    h3{
+      font-size: 2em !important;
+    }
+    span{
+      font-size: 1em !important;
+    }
+
+
+ }

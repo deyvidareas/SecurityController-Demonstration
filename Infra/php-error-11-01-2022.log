@@ -1,0 +1,87 @@
+[11-Jan-2022 07:14:10 America/Sao_Paulo] PHP Warning:  Attempt to assign property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:15:07 America/Sao_Paulo] PHP Warning:  Attempt to assign property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:15:42 America/Sao_Paulo] PHP Warning:  Attempt to assign property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:16:01 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:17:34 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:17:34 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Mensagens::setMsg(), 1 passed in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 163 and exactly 2 expected in C:\xampp\htdocs\projetoContollerSecurity\Model\Mensagens.php:6
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php(163): Mensagens::setMsg('N\xC3\xA3o foi poss\xC3\xAD...')
+#1 C:\xampp\htdocs\projetoContollerSecurity\painel.php(5): Visitante->dadosVisitantePainel()
+#2 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Mensagens.php on line 6
+[11-Jan-2022 07:18:14 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:19:25 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:19:50 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:20:28 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:21:26 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:22:35 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:23:14 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 07:24:08 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 11:45:26 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 12:23:17 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 12:28:39 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 12:29:41 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 12:31:29 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 12:32:08 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:36:05 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:36:48 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:37:09 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:37:40 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:37:58 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:39:14 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:39:32 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:40:31 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:41:53 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:43:03 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:43:30 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:44:42 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:45:04 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:45:33 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:45:52 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:48:40 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:49:21 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:49:49 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:50:31 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:50:45 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:51:01 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:51:21 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:51:55 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:52:08 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:52:20 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:52:34 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:52:49 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:53:03 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:53:32 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:55:03 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 161
+[11-Jan-2022 13:56:51 America/Sao_Paulo] PHP Notice:  Undefined property: PDOStatement::$num_rows in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 13:57:23 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 13:58:22 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 13:58:22 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Mensagens::setMsg(), 1 passed in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 164 and exactly 2 expected in C:\xampp\htdocs\projetoContollerSecurity\Model\Mensagens.php:6
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php(164): Mensagens::setMsg(NULL)
+#1 C:\xampp\htdocs\projetoContollerSecurity\painel.php(5): Visitante->dadosVisitantePainel()
+#2 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Mensagens.php on line 6
+[11-Jan-2022 13:58:57 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 13:59:10 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 13:59:45 America/Sao_Paulo] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 14:02:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function store_result() on string in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php:160
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\painel.php(5): Visitante->dadosVisitantePainel()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 14:02:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::store_result() in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php:160
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\painel.php(5): Visitante->dadosVisitantePainel()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 14:03:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function store_result() on array in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php:160
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\painel.php(5): Visitante->dadosVisitantePainel()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160
+[11-Jan-2022 14:03:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function store_result() on string in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php:160
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\painel.php(5): Visitante->dadosVisitantePainel()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 160

@@ -1,0 +1,32 @@
+[05-Jan-2022 20:50:10 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Visitante::cadastraVisitante(), 0 passed in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 7 and exactly 1 expected in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php:5
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php(7): Visitante->cadastraVisitante()
+#1 C:\xampp\htdocs\projetoContollerSecurity\index.php(7): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\Model\Visitante.php on line 5
+[06-Jan-2022 16:59:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Funcionarios' not found in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php:3
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\index.php(7): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\View\home\homePortaria.php on line 3
+[06-Jan-2022 18:39:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Usuario::isLoggedIn() in C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php:5
+Stack trace:
+#0 C:\xampp\htdocs\projetoContollerSecurity\index.php(2): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\projetoContollerSecurity\View\Template\header.php on line 5
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 5
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 67
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 118
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\index.php on line 6
+[06-Jan-2022 19:57:18 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\footer.php on line 7
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 5
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 67
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 118
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\index.php on line 6
+[06-Jan-2022 19:58:19 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\footer.php on line 7

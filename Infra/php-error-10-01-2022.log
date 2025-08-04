@@ -1,0 +1,7 @@
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: nome in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 5
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: email in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 18
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 40
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: nivelUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 54
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 67
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\View\Template\aside.php on line 118
+[10-Jan-2022 11:11:36 America/Sao_Paulo] PHP Notice:  Undefined index: tipoUsuario in C:\xampp\htdocs\projetoContollerSecurity\index.php on line 6
